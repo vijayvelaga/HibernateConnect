@@ -1,4 +1,4 @@
-package info.hibernate.orm;
+package info.hibernate.orm.dto;
 
 /**
  * Hello world!
